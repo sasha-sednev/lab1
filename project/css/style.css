@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(230, 205, 152);
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li a {
+    color: #199255;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+p.container {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-style: Arial;
+    line-height: 50px;
+    text-align: center;
+}
+
+p.full-description {
+    color: rgb(206, 68, 176);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.center {
+    text-align: center;
+  }
+  
+  .right {
+    text-align: right;
+  }
+  
+  .justify {
+    text-align: justify;
+  }

@@ -1,0 +1,27 @@
+h2 {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: rgb(240, 240, 240);
+    padding: 5px;
+  }
+  
+  .short-description {
+    color: rgb(223, 84, 84);
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+  }
+  
+  .long-description {
+    color: rgb(185, 60, 60);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+  }
+  
+  .characteristics {
+    list-style-image: url("../images/bookmark-plus.svg");
+  }
+  
